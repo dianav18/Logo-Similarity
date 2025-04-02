@@ -88,14 +88,3 @@ Images are grouped iteratively based on similarity thresholds. If a new logo is 
    python group_logos.py
    ```
 4. Check the `groups/` directory for the result clusters.
-
----
-
-## 📸 Sample Group (group_0)
-
-These domains all belong to AAMCO auto repair centers, and their logos were identified as visually identical:
-
-- `aamcooverlandpark.com`
-- `aamcophilly-frankfordave.com`
-- `aamcopottstownpa.com`
-- ...
